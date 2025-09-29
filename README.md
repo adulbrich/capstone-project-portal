@@ -71,3 +71,5 @@ Run the migrations to set up the database schema:
 ```shell
 php artisan migrate
 ```
+
+[Current schema on drawSQL.](https://drawsql.app/teams/capucity/diagrams/capstone-project-portal)
